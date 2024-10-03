@@ -1,5 +1,3 @@
-# Vue 3 + Vite
+# tailwindcss 响应式导航栏
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+[**B站视频链接**](https://www.bilibili.com/video/BV1Ya411u7xR?vd_source=717e5631051a8339c2eea7fb70959d5b)
